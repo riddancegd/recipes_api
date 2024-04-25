@@ -4,6 +4,7 @@
       "name": "Tacos al Pastor",
       "image_url": "https://i.blogs.es/95b0b1/como-hacer-tacos-pastor-sin-trompo-drake-bell-mexico/650_1200.jpg",
       "location": {
+        "name": "México City, México",
         "latitude": 19.4326,
         "longitude": -99.1332
       },
@@ -51,6 +52,7 @@
       "name": "Chiles en Nogada",
       "image_url": "https://hunts.com.mx/wp-content/uploads/2021/09/Hunts-Chile-Nogada-1.jpg",
       "location": {
+        "name": "Puebla, México",
         "latitude": 19.0413,
         "longitude": -98.2062
       },
@@ -98,6 +100,7 @@
       "name": "Pozole",
       "image_url": "https://www.wholesomeyum.com/wp-content/uploads/2023/08/wholesomeyum-Pozole-Recipe-17-500x500.jpg",
       "location": {
+        "name": "Guadalajara, México",
         "latitude": 20.6767,
         "longitude": -103.3474
       },
@@ -155,6 +158,7 @@
       "name": "Enchiladas Verdes",
       "image_url": "https://cdn0.recetasgratis.net/es/posts/5/6/2/enchiladas_suizas_12265_orig.jpg",
       "location": {
+        "name": "Guadalajara, México",
         "latitude": 24.805571,
         "longitude": -107.393421
       },
@@ -207,10 +211,9 @@
       "name": "Ceviche",
       "image_url": "https://cevicheweb.com/wp-content/uploads/2019/04/77.-Ceviche-tropical.jpg",
       "location": {
-        "latitude":
-
- 21.1619,
-        "longitude": -86.8515
+        "name": "Lima, Perú",
+        "latitude": -12.048543,
+        "longitude": -77.042641
       },
       "ingredients": [
         {
@@ -256,6 +259,7 @@
       "name": "Tamales",
       "image_url": "https://www.gastrolabweb.com/u/fotografias/m/2021/9/16/f608x342-18964_48687_4359.jpg",
       "location": {
+        "name": "Oaxaca, México",
         "latitude": 17.072513,
         "longitude": -96.726279
       },
@@ -293,6 +297,7 @@
       "name": "Carnitas",
       "image_url": "https://volarisrevista.com/wp-content/uploads/2022/12/1-1.jpg",
       "location": {
+        "name": "Morelia, México",
         "latitude": 19.711747,
         "longitude": -101.229924
       },
@@ -330,6 +335,7 @@
       "name": "Guacamole",
       "image_url": "https://www.mylatinatable.com/wp-content/uploads/2016/02/guacamole-foto-heroe.jpg",
       "location": {
+        "name": "Chiapas, México",
         "latitude": 16.750313,
         "longitude": -93.103200
       },
@@ -372,6 +378,7 @@
       "name": "Quesadillas",
       "image_url": "https://www.paulinacocina.net/wp-content/uploads/2023/07/receta-quesadillas.jpg",
       "location": {
+        "name": "México City, México",
         "latitude": 19.4326,
         "longitude": -99.1332
       },
@@ -404,6 +411,7 @@
       "name": "Flan",
       "image_url": "https://www.cocinavital.mx/wp-content/uploads/2017/08/flan-napolitano-e1539711740395.jpg",
       "location": {
+        "name": "San Luis Potosí, México",
         "latitude": 22.152142,
         "longitude": -100.973360
       },
