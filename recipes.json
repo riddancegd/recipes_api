@@ -1,0 +1,441 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Tacos al Pastor",
+      "image_url": "https://i.blogs.es/95b0b1/como-hacer-tacos-pastor-sin-trompo-drake-bell-mexico/650_1200.jpg",
+      "location": {
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      },
+      "ingredients": [
+        {
+          "name": "pork shoulder",
+          "amount": 500,
+          "unit": "grams"
+        },
+        {
+          "name": "achiote paste",
+          "amount": 50,
+          "unit": "grams"
+        },
+        {
+          "name": "pineapple",
+          "amount": 200,
+          "unit": "grams"
+        },
+        {
+          "name": "white onions",
+          "amount": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "coriander",
+          "amount": 30,
+          "unit": "grams"
+        },
+        {
+          "name": "lime",
+          "amount": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "corn tortillas",
+          "amount": 10,
+          "unit": "pieces"
+        }
+      ],
+      "procedure": "Marinate the pork shoulder in a mix of achiote paste, vinegar, and spices for at least 4 hours. Grill the meat alongside slices of pineapple until caramelized. Chop the meat and pineapple together. Serve on warm tortillas with chopped onions and coriander, squeezing a lime over each taco."
+    },
+    {
+      "id": 2,
+      "name": "Chiles en Nogada",
+      "image_url": "https://hunts.com.mx/wp-content/uploads/2021/09/Hunts-Chile-Nogada-1.jpg",
+      "location": {
+        "latitude": 19.0413,
+        "longitude": -98.2062
+      },
+      "ingredients": [
+        {
+          "name": "Poblano peppers",
+          "amount": 6,
+          "unit": "pieces"
+        },
+        {
+          "name": "picadillo (meat stuffing)",
+          "amount": 500,
+          "unit": "grams"
+        },
+        {
+          "name": "walnuts",
+          "amount": 100,
+          "unit": "grams"
+        },
+        {
+          "name": "pomegranate seeds",
+          "amount": 50,
+          "unit": "grams"
+        },
+        {
+          "name": "parsley",
+          "amount": 30,
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "amount": 10,
+          "unit": "grams"
+        },
+        {
+          "name": "milk",
+          "amount": 200,
+          "unit": "ml"
+        }
+      ],
+      "procedure": "Char the poblano peppers and remove the skin. Prepare the picadillo by cooking minced meat with tomatoes, onions, and spices. Stuff the peppers with picadillo. Prepare a walnut cream sauce with milk, sugar, and ground walnuts. Pour the sauce over the stuffed peppers and garnish with pomegranate seeds and parsley."
+    },
+    {
+      "id": 3,
+      "name": "Pozole",
+      "image_url": "https://www.wholesomeyum.com/wp-content/uploads/2023/08/wholesomeyum-Pozole-Recipe-17-500x500.jpg",
+      "location": {
+        "latitude": 20.6767,
+        "longitude": -103.3474
+      },
+      "ingredients": [
+        {
+          "name": "hominy",
+          "amount": 500,
+          "unit": "grams"
+        },
+        {
+          "name": "pork shoulder",
+          "amount": 700,
+          "unit": "grams"
+        },
+        {
+          "name": "guajillo chiles",
+          "amount": 5,
+          "unit": "pieces"
+        },
+        {
+          "name": "garlic",
+          "amount": 3,
+          "unit": "cloves"
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "oregano",
+          "amount": 5,
+          "unit": "grams"
+        },
+        {
+          "name": "cabbage",
+          "amount": 200,
+          "unit": "grams"
+        },
+        {
+          "name": "radishes",
+          "amount": 100,
+          "unit": "grams"
+        },
+        {
+          "name": "lime",
+          "amount": 3,
+          "unit": "pieces"
+        }
+      ],
+      "procedure": "Cook the hominy in a large pot until tender. In another pot, cook the pork shoulder with onions, garlic, and salt until tender. Blend soaked guajillo chiles with garlic and add to the pork. Combine pork and hominy. Serve hot with shredded cabbage, sliced radishes, and a squeeze of lime juice."
+    },
+    {
+      "id": 4,
+      "name": "Enchiladas Verdes",
+      "image_url": "https://cdn0.recetasgratis.net/es/posts/5/6/2/enchiladas_suizas_12265_orig.jpg",
+      "location": {
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      },
+      "ingredients": [
+        {
+          "name": "corn tortillas",
+          "amount": 12,
+          "unit": "pieces"
+        },
+        {
+          "name": "chicken breast",
+          "amount": 300,
+          "unit": "grams"
+        },
+        {
+          "name": "green tomatoes",
+          "amount": 500,
+          "unit": "grams"
+        },
+        {
+          "name": "jalapeño peppers",
+          "amount": 3,
+          "unit": "pieces"
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "garlic",
+          "amount": 2,
+          "unit": "cloves"
+        },
+        {
+          "name": "sour cream",
+          "amount": 100,
+          "unit": "grams"
+        },
+        {
+          "name": "queso fresco",
+          "amount": 100,
+          "unit": "grams"
+        }
+      ],
+      "procedure": "Boil chicken until cooked and shred. Blend green tomatoes, jalapeños, onions, and garlic to make a sauce. Fry the tortillas briefly, dip into the green sauce, fill with chicken, and roll up. Pour remaining sauce over enchiladas, top with sour cream and crumbled queso fresco before serving."
+    },
+    {
+      "id": 5,
+      "name": "Ceviche",
+      "image_url": "https://cevicheweb.com/wp-content/uploads/2019/04/77.-Ceviche-tropical.jpg",
+      "location": {
+        "latitude":
+
+ 21.1619,
+        "longitude": -86.8515
+      },
+      "ingredients": [
+        {
+          "name": "white fish",
+          "amount": 400,
+          "unit": "grams"
+        },
+        {
+          "name": "lime juice",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "tomatoes",
+          "amount": 200,
+          "unit": "grams"
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "cilantro",
+          "amount": 30,
+          "unit": "grams"
+        },
+        {
+          "name": "jalapeño",
+          "amount": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "avocado",
+          "amount": 1,
+          "unit": "piece"
+        }
+      ],
+      "procedure": "Dice the fish and marinate in lime juice until the flesh becomes opaque. Add chopped tomatoes, onions, cilantro, and jalapeño to the fish. Mix gently and chill in the refrigerator for an hour. Serve chilled with slices of avocado on top."
+    },
+    {
+      "id": 6,
+      "name": "Tamales",
+      "image_url": "https://www.gastrolabweb.com/u/fotografias/m/2021/9/16/f608x342-18964_48687_4359.jpg",
+      "location": {
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      },
+      "ingredients": [
+        {
+          "name": "corn dough",
+          "amount": 1000,
+          "unit": "grams"
+        },
+        {
+          "name": "pork lard",
+          "amount": 250,
+          "unit": "grams"
+        },
+        {
+          "name": "chicken",
+          "amount": 500,
+          "unit": "grams"
+        },
+        {
+          "name": "red chili sauce",
+          "amount": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "corn husks",
+          "amount": 20,
+          "unit": "pieces"
+        }
+      ],
+      "procedure": "Soften corn husks in hot water. Mix corn dough with lard and a pinch of salt until smooth. Spread dough on husks, add a spoonful of chicken and red chili sauce, and fold the husk to enclose the filling. Steam tamales for about 90 minutes until the dough separates easily from the husk."
+    },
+    {
+      "id": 7,
+      "name": "Carnitas",
+      "image_url": "https://volarisrevista.com/wp-content/uploads/2022/12/1-1.jpg",
+      "location": {
+        "latitude": 19.4326,
+        "longitude": -100.1332
+      },
+      "ingredients": [
+        {
+          "name": "pork shoulder",
+          "amount": 1000,
+          "unit": "grams"
+        },
+        {
+          "name": "orange",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "garlic",
+          "amount": 4,
+          "unit": "cloves"
+        },
+        {
+          "name": "bay leaves",
+          "amount": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "milk",
+          "amount": 100,
+          "unit": "ml"
+        }
+      ],
+      "procedure": "Cut the pork into large chunks. Combine in a pot with water, milk, orange juice and zest, garlic, and bay leaves. Simmer for 2-3 hours until the pork is tender. Increase the heat to reduce the liquid and fry the pork in its own fat until crisp. Shred and serve with tortillas."
+    },
+    {
+      "id": 8,
+      "name": "Guacamole",
+      "image_url": "https://www.mylatinatable.com/wp-content/uploads/2016/02/guacamole-foto-heroe.jpg",
+      "location": {
+        "latitude": 20.6595,
+        "longitude": -103.3496
+      },
+      "ingredients": [
+        {
+          "name": "avocados",
+          "amount": 3,
+          "unit": "pieces"
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "tomatoes",
+          "amount": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "cilantro",
+          "amount": 15,
+          "unit": "grams"
+        },
+        {
+          "name": "lime",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "jalapeño",
+          "amount": 1,
+          "unit": "piece"
+        }
+      ],
+      "procedure": "Mash the avocados in a bowl. Finely chop the onion, tomatoes, cilantro, and jalapeño. Mix into the mashed avocados. Squeeze lime juice over the mixture and season with salt. Mix gently and serve with tortilla chips."
+    },
+    {
+      "id": 9,
+      "name": "Quesadillas",
+      "image_url": "https://www.paulinacocina.net/wp-content/uploads/2023/07/receta-quesadillas.jpg",
+      "location": {
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      },
+      "ingredients": [
+        {
+          "name": "corn tortillas",
+          "amount": 10,
+          "unit": "pieces"
+        },
+        {
+          "name": "Oaxaca cheese",
+          "amount": 300,
+          "unit": "grams"
+        },
+        {
+          "name": "mushrooms",
+          "amount": 200,
+          "unit": "grams"
+        },
+        {
+          "name": "poblano peppers",
+          "amount": 2,
+          "unit": "pieces"
+        }
+      ],
+      "procedure": "Slice the mushrooms and poblano peppers and sauté until cooked. Place tortillas on a hot griddle, add a generous amount of cheese and the sautéed vegetables. Fold the tortilla over and cook until the cheese is melted and the tortilla is golden brown. Serve hot."
+    },
+    {
+      "id": 10,
+      "name": "Flan",
+      "image_url": "https://www.cocinavital.mx/wp-content/uploads/2017/08/flan-napolitano-e1539711740395.jpg",
+      "location": {
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      },
+      "ingredients": [
+        {
+          "name": "sugar",
+          "amount": 150,
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "amount": 5,
+          "unit": "pieces"
+        },
+        {
+          "name": "condensed milk",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "evaporated milk",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 5,
+          "unit": "ml"
+        }
+      ],
+      "procedure": "Caramelize sugar in a pan until golden, then quickly pour into a round baking dish. Blend eggs, condensed milk, evaporated milk, and vanilla extract until smooth. Pour the mixture over the caramelized sugar. Cook in a bain-marie (water bath) in the oven at 350°F for about an hour or until set. Cool completely before inverting onto a plate."
+    }
+  ]
+}
