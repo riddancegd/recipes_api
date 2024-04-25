@@ -155,8 +155,8 @@
       "name": "Enchiladas Verdes",
       "image_url": "https://cdn0.recetasgratis.net/es/posts/5/6/2/enchiladas_suizas_12265_orig.jpg",
       "location": {
-        "latitude": 19.4326,
-        "longitude": -99.1332
+        "latitude": 24.805571,
+        "longitude": -107.393421
       },
       "ingredients": [
         {
@@ -293,8 +293,8 @@
       "name": "Carnitas",
       "image_url": "https://volarisrevista.com/wp-content/uploads/2022/12/1-1.jpg",
       "location": {
-        "latitude": 19.4326,
-        "longitude": -100.1332
+        "latitude": 19.711747,
+        "longitude": -101.229924
       },
       "ingredients": [
         {
@@ -330,8 +330,8 @@
       "name": "Guacamole",
       "image_url": "https://www.mylatinatable.com/wp-content/uploads/2016/02/guacamole-foto-heroe.jpg",
       "location": {
-        "latitude": 20.6595,
-        "longitude": -103.3496
+        "latitude": 16.750313,
+        "longitude": -93.103200
       },
       "ingredients": [
         {
@@ -404,8 +404,8 @@
       "name": "Flan",
       "image_url": "https://www.cocinavital.mx/wp-content/uploads/2017/08/flan-napolitano-e1539711740395.jpg",
       "location": {
-        "latitude": 19.4326,
-        "longitude": -99.1332
+        "latitude": 22.152142,
+        "longitude": -100.973360
       },
       "ingredients": [
         {
