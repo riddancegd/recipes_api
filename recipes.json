@@ -1,5 +1,4 @@
-{
-  "recipes": [
+[
     {
       "id": 1,
       "name": "Tacos al Pastor",
@@ -438,4 +437,3 @@
       "procedure": "Caramelize sugar in a pan until golden, then quickly pour into a round baking dish. Blend eggs, condensed milk, evaporated milk, and vanilla extract until smooth. Pour the mixture over the caramelized sugar. Cook in a bain-marie (water bath) in the oven at 350°F for about an hour or until set. Cool completely before inverting onto a plate."
     }
   ]
-}
