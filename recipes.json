@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Tacos al Pastor",
-      "imageUrl": "https://i.blogs.es/95b0b1/como-hacer-tacos-pastor-sin-trompo-drake-bell-mexico/650_1200.jpg",
+      "image": "https://i.blogs.es/95b0b1/como-hacer-tacos-pastor-sin-trompo-drake-bell-mexico/650_1200.jpg",
       "location": {
         "name": "México City, México",
         "latitude": 19.4326,
@@ -50,7 +50,7 @@
     {
       "id": 2,
       "name": "Chiles en Nogada",
-      "imageUrl": "https://hunts.com.mx/wp-content/uploads/2021/09/Hunts-Chile-Nogada-1.jpg",
+      "image": "https://hunts.com.mx/wp-content/uploads/2021/09/Hunts-Chile-Nogada-1.jpg",
       "location": {
         "name": "Puebla, México",
         "latitude": 19.0413,
@@ -98,7 +98,7 @@
     {
       "id": 3,
       "name": "Pozole",
-      "imageUrl": "https://www.wholesomeyum.com/wp-content/uploads/2023/08/wholesomeyum-Pozole-Recipe-17-500x500.jpg",
+      "image": "https://www.wholesomeyum.com/wp-content/uploads/2023/08/wholesomeyum-Pozole-Recipe-17-500x500.jpg",
       "location": {
         "name": "Guadalajara, México",
         "latitude": 20.6767,
@@ -156,7 +156,7 @@
     {
       "id": 4,
       "name": "Enchiladas Verdes",
-      "imageUrl": "https://cdn0.recetasgratis.net/es/posts/5/6/2/enchiladas_suizas_12265_orig.jpg",
+      "image": "https://cdn0.recetasgratis.net/es/posts/5/6/2/enchiladas_suizas_12265_orig.jpg",
       "location": {
         "name": "Guadalajara, México",
         "latitude": 24.805571,
@@ -209,7 +209,7 @@
     {
       "id": 5,
       "name": "Ceviche",
-      "imageUrl": "https://cevicheweb.com/wp-content/uploads/2019/04/77.-Ceviche-tropical.jpg",
+      "image": "https://cevicheweb.com/wp-content/uploads/2019/04/77.-Ceviche-tropical.jpg",
       "location": {
         "name": "Lima, Perú",
         "latitude": -12.048543,
@@ -257,7 +257,7 @@
     {
       "id": 6,
       "name": "Tamales",
-      "imageUrl": "https://www.gastrolabweb.com/u/fotografias/m/2021/9/16/f608x342-18964_48687_4359.jpg",
+      "image": "https://www.gastrolabweb.com/u/fotografias/m/2021/9/16/f608x342-18964_48687_4359.jpg",
       "location": {
         "name": "Oaxaca, México",
         "latitude": 17.072513,
@@ -295,7 +295,7 @@
     {
       "id": 7,
       "name": "Carnitas",
-      "imageUrl": "https://volarisrevista.com/wp-content/uploads/2022/12/1-1.jpg",
+      "image": "https://volarisrevista.com/wp-content/uploads/2022/12/1-1.jpg",
       "location": {
         "name": "Morelia, México",
         "latitude": 19.711747,
@@ -333,7 +333,7 @@
     {
       "id": 8,
       "name": "Guacamole",
-      "imageUrl": "https://www.mylatinatable.com/wp-content/uploads/2016/02/guacamole-foto-heroe.jpg",
+      "image": "https://www.mylatinatable.com/wp-content/uploads/2016/02/guacamole-foto-heroe.jpg",
       "location": {
         "name": "Chiapas, México",
         "latitude": 16.750313,
@@ -376,7 +376,7 @@
     {
       "id": 9,
       "name": "Quesadillas",
-      "imageUrl": "https://www.paulinacocina.net/wp-content/uploads/2023/07/receta-quesadillas.jpg",
+      "image": "https://www.paulinacocina.net/wp-content/uploads/2023/07/receta-quesadillas.jpg",
       "location": {
         "name": "México City, México",
         "latitude": 19.4326,
@@ -409,7 +409,7 @@
     {
       "id": 10,
       "name": "Flan",
-      "imageUrl": "https://www.cocinavital.mx/wp-content/uploads/2017/08/flan-napolitano-e1539711740395.jpg",
+      "image": "https://www.cocinavital.mx/wp-content/uploads/2017/08/flan-napolitano-e1539711740395.jpg",
       "location": {
         "name": "San Luis Potosí, México",
         "latitude": 22.152142,
