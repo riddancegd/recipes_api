@@ -17,7 +17,9 @@ La aplicación recupera los datos de un mock creado en github que devuelve un pa
 
 - Se utilizó mockito y mockk para las pruebas, esto debido a que en mi experiencia, algunas veces una librería no funciona con algunos tests y la otra sí. Esto me daba más opciones a la hora de escribir tests.
 
-- Dejé a la vista mi key de google maps por temas de simplicidad y por la naturaleza del proyecto. Pero en un proyecto "real" se debe colocar este y otros datos en un archivo encriptado "secrets.properties", el cual se debe desencriptar con una clave para poder ser usado y compilar la app.
+- Dejé a la vista mi key de google maps por temas de simplicidad y por la naturaleza del proyecto. Pero en un proyecto real se debe colocar este y otros datos confidenciales en un archivo encriptado "secrets.properties", el cual se debe desencriptar con una clave para poder ser usado y compilar el proyecto.
+
+- Se crearon 2 configuraciones, una corre todos los test unitarios y la otra corre todos los tests instrumentados. Esto para facilidad de examinación del proyecto. Los nombres de las configuraciones son "All Android Tests" y "All Unit Tests"
 
 ## Dependencias de terceros utilizadas
 
